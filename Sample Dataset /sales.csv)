@@ -1,0 +1,6 @@
+order_id,region,quantity,price
+1,North,2,500
+2,South,1,700
+3,East,4,250
+4,West,3,400
+5,North,5,300
